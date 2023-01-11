@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Senait
-#### AWS Certified Solution Architect
+#### AWS Certified Solutions Architect
 ![AWS Solution Architect](https://img.freepik.com/free-vector/saas-technology-abstract-concept-illustration-software-as-service-cloud-computing-application-service-customer-access-software-licensing-subscription-pricing_335657-960.jpg?w=826&t=st=1673402115~exp=1673402715~hmac=ac39aa84f0854987e3b7318c0b60e148c7afc202fc1bf4a7e1b0a0bae67bf24c)
 
 🌱 I'm currently juggling AWS Advanced Networking Specialty with several cloud projects and intend to complete them soon.
