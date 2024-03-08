@@ -1,6 +1,6 @@
 Welcome to my GitHub profile!
 ## About Me
-Hello! I'm Senait, a pharmacist who has recently transitioned into the exciting world of AWS Cloud. With a background in pharmacy and a newfound passion for technology, I've embarked on a journey to explore the vast opportunities offered by cloud computing. I'm proud to share that I've achieved the AWS Cloud Practitioner, AWS Certified Solutions Architect Associate, and Professional certificates, marking significant milestones in my career change journey. 
+Hello! I'm Senait, a pharmacist who has transitioned into the exciting world of AWS Cloud. With a background in pharmacy and a newfound passion for technology, I've embarked on a journey to explore the vast opportunities offered by cloud computing. I'm proud to share that I've achieved the AWS Cloud Practitioner, AWS Certified Solutions Architect Associate, and Professional certificates, marking significant milestones in my career change journey. 
 
 ## What You'll Find Here
 - **Projects:**   Dive into my repositories to explore projects related to AWS Cloud. As a pharmacist turned cloud enthusiast, I'm dedicated to showcasing my projects that demonstrate my growing expertise and proficiency in cloud technologies. From beginner-friendly to advanced implementations, there's something for everyone interested in the AWS Cloud.
